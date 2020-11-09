@@ -1,8 +1,7 @@
 #include<iostream>
-#include<KMP.h>
-#include<violentstringmatch.h>
+#include<../include/KMP.h>
+#include<../include/violentstringmatch.h>
 #include<string>
-#include<array>
 #include<ctime>
 using std::cin, std::cout, std::endl, std::cerr;
 int main(int argc, char const* argv[]) {
